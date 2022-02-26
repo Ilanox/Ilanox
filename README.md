@@ -1,7 +1,7 @@
 
 ![Logo](https://cdn.discordapp.com/attachments/856525085421600820/869654630123069440/Ilanox_without_background.png)
 
-# Ilanox
+# Who am I
 
 Hello, My name is Ilan (Ilanox) Levy, I'm a developer and Server Manager.\
 I know JavaScript, Java, C#, Python and C++.
