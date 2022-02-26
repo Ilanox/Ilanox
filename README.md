@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**Ilanox/Ilanox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Logo](https://cdn.discordapp.com/attachments/856525085421600820/869654630123069440/Ilanox_without_background.png)
 
-Here are some ideas to get you started:
+# Ilanox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, My name is Ilan (Ilanox) Levy, I'm a developer and Server Manager.\
+I know JavaScript, Java, C#, Python and C++.
+
+## My Socials
+
+Discord: Iłanøx#2006\
+Instagram: Ilanox_\
+Youtube: Ilanox\
+Email: IlanoxYT@gmail.com
+
+
+
+## Projects
+
+**Edvin Studios:**
+- Edvin's Maze: https://edvin.co.il/discord
+- Gloasty: https://discord.gg/sD2hRwb2mC
+
