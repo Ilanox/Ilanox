@@ -1,5 +1,5 @@
 
-![Logo](https://cdn.discordapp.com/attachments/856525085421600820/869654630123069440/Ilanox_without_background.png)
+![Logo](https://i.imgur.com/maPnzLF.png)
 
 # Who am I
 
