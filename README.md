@@ -8,16 +8,15 @@ I know JavaScript, Java, C#, Python and C++.
 
 ## My Socials
 
-Discord: Iłanøx#2006\
-Instagram: Ilanox_\
+Discord: @ilanox\
+Instagram: ilan.levyy\
 Youtube: Ilanox\
-Email: IlanoxYT@gmail.com
+Email: ilan@edvin.co.il
 
 
 
 ## Projects
 
 **Edvin Studios:**
-- Edvin's Maze: https://edvin.co.il/discord
-- Gloasty: https://discord.gg/sD2hRwb2mC
+- Discord: https://edvin.co.il/discord
 
