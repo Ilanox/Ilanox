@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/maPnzLF.png" alt="Ilanox" width="160">
+  <img src="https://i.imgur.com/maPnzLF.png" alt="Ilanox">
 </p>
 
 <h1 align="center">Ilan Levy</h1>
