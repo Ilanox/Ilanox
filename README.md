@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Ilan Levy</h1>
-<p align="center"><b>Ilanox</b> · Founder and owner of Edvin Studios and the Israeli Clique · Developer and event producer · Israel</p>
+<p align="center"><b>Ilanox</b> · Electronics practical engineer, RF and EMC · Founder and owner of Edvin Studios and the Israeli Clique · Israel</p>
 
 <p align="center">
   <a href="https://twentyonepilots.co.il">twentyonepilots.co.il</a> ·
@@ -15,7 +15,7 @@
 
 ### About
 
-I'm the founder and owner of **Edvin Studios** and the **Israeli Clique**. I build apps, websites, bots and game servers, and I produce live events: Twenty One Pilots tribute shows and screenings in Israel, from the story and setlist to ticketing and everything behind the scenes.
+I'm an electronics practical engineer (הנדסאי אלקטרוניקה) working in RF, mainly EMC, and the founder and owner of **Edvin Studios** and the **Israeli Clique**. I build apps, websites, bots and game servers, and I produce live events: Twenty One Pilots tribute shows and screenings in Israel, from the story and setlist to ticketing and everything behind the scenes.
 
 **Languages:** JavaScript, Java, C#, Python, C++
 
@@ -30,7 +30,7 @@ Shift tracker and pay calculator for hourly workers in Israel. Tap in when a shi
 [Website](https://etzba.ilanox.dev) · [Code](https://github.com/Ilanox/Etzba)
 
 **[Edvin Studios](https://edvin.co.il/discord)**
-My studio and community. Home to my projects, including the Edvin Minecraft server (a survival world with its own story and kingdoms) and Jukebox, a Discord music bot.
+My studio and community. Home to my projects, including Edvin, an MMORPG with its own kingdoms and story, and Jukebox, a Discord music bot.
 [Discord](https://edvin.co.il/discord)
 
 ### Contact
