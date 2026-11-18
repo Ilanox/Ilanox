@@ -6,6 +6,7 @@
 <p align="center"><b>Ilanox</b> · Electronics practical engineer, RF and EMC · Founder and owner of Edvin Studios and the Israeli Clique · Israel</p>
 
 <p align="center">
+  <a href="https://ilanox.dev"><b>ilanox.dev</b></a> ·
   <a href="https://twentyonepilots.co.il">twentyonepilots.co.il</a> ·
   <a href="https://etzba.ilanox.dev">etzba.ilanox.dev</a> ·
   <a href="mailto:ilan@edvin.co.il">ilan@edvin.co.il</a>
@@ -38,7 +39,8 @@ My studio and community. Home to my projects, including Edvin, an MMORPG with it
 | | |
 |---|---|
 | Email | [ilan@edvin.co.il](mailto:ilan@edvin.co.il) |
-| Website | [twentyonepilots.co.il](https://twentyonepilots.co.il) |
+| Website | [ilanox.dev](https://ilanox.dev) |
+| Israeli Clique | [twentyonepilots.co.il](https://twentyonepilots.co.il) |
 | Discord | @ilanox |
 | Instagram | [ilan.levyy](https://instagram.com/ilan.levyy) · Israeli Clique: [israeli.clique](https://instagram.com/israeli.clique) |
 | YouTube | Ilanox |
